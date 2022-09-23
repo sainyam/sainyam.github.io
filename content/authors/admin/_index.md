@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sainyam Galhotra
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD 
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MS
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: BTech
       institution: Massachusetts Institute of Technology
       year: 2008
 
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sainyam@uchicago.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
