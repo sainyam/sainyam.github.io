@@ -1,5 +1,4 @@
 ---
-
 title:'Ver: View Discovery in the Wild'
 weight: 20
 # Authors
@@ -16,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: '2023'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -88,7 +87,7 @@ authors:
   - Zhiru Zhu
   - admin
   - Raul Castro Fernandez
-
+date:'2023'
 publication_types: ['1']
 publication: In International Conference on Data Engineering
 publication_short: In ICDE
