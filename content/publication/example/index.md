@@ -1,5 +1,6 @@
 ---
-title: 'Ver: View Discovery in the Wild'
+
+'Ver: View Discovery in the Wild'
 weight: 20
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -80,7 +81,8 @@ slides: example
 
 
 ---
-title: 'Ver: View Discovery in the Wild'
+title: 'Ver: View Discovery in the Wild2'
+weight:10
 authors:
   - Yue Gong
   - Zhiru Zhu
