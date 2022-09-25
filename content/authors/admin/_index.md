@@ -73,7 +73,7 @@ I am a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computi
 
 I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
-<p style="font-size:14px; color:#538b01; font-weight:bold; font-style:italic;">
+<p style="font-size:20px; color:red; font-weight:bold; font-style:italic;">
 I am in the academic job market. Please reach out if you have an opening.</p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
