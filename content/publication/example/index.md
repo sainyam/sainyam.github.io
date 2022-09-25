@@ -17,11 +17,10 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2 Jan 2006'
+date: 2023-01-01T00:00:00Z
 
-publishDate: '2023-01-01T00:00:00Z'
+# publishDate: '2023-01-01T00:00:00Z'
 
-DateFormat: "2023"
 
 year: 2023
 # doi: ''
