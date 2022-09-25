@@ -1,12 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'Ver: View Discovery in the Wild'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Yue Gong
+  - Zhiru Zhu
   - admin
-  - Robert Ford
+  - Raul Castro Fernandez
 
 # Author notes (optional)
 # author_notes:
@@ -74,6 +76,103 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+
+
+---
+title: 'Ver: View Discovery in the Wild'
+authors:
+  - Yue Gong
+  - Zhiru Zhu
+  - admin
+  - Raul Castro Fernandez
+
+publication_types: ['1']
+publication: In International Conference on Data Engineering
+publication_short: In ICDE
+
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
+
+
+---
+title: 'Hierarchical entity resolution using an oracle'
+authors:
+  - admin
+  - Donatella Firmani
+  - Barna Saha
+  - Divesh Srivastava
+
+publication_types: ['1']
+publication: In International Conference on Management of Data
+publication_short: In SIGMOD 2022
+
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
+
+
+---
+title: 'DataPrism: Exposing Disconnect between Data and Systems'
+authors:
+  - admin
+  - Anna Fariha
+  - Raoni Lourenço
+  - Juliana Freire 
+  - Alexandra Meliou
+  - Divesh Srivastava
+
+publication_types: ['1']
+publication: In International Conference on Management of Data
+publication_short: In SIGMOD 2022
+
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
+
+---
+title: 'Automated Relational Data Explanation using External Semantic Knowledge'
+authors:
+  - admin
+  - Udayan Khurana
+
+publication_types: ['1']
+publication: In Very Large Databases
+publication_short: In VLDB (Demo Track)
+
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+---
+
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
