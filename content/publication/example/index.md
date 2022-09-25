@@ -1,6 +1,8 @@
 ---
 title:'Ver: View Discovery in the Wild12'
+
 weight: 20
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -81,12 +83,15 @@ slides: example
 
 ---
 title: 'Ver: View Discovery in the Wild2'
+
 weight:10
+
 authors:
   - Yue Gong
   - Zhiru Zhu
   - admin
   - Raul Castro Fernandez
+
 date:'2023'
 publication_types: ['1']
 publication: In International Conference on Data Engineering
