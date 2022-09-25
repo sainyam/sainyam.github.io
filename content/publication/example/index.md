@@ -17,9 +17,9 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023'
+date: '2 Jan 2006'
 
-publishDate: "2 Jan 2006"
+publishDate: '2023-01-01T00:00:00Z'
 
 DateFormat: "2023"
 
