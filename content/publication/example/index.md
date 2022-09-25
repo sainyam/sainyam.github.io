@@ -1,5 +1,5 @@
 ---
-title:'Ver: View Discovery in the Wild'
+title:'Ver: View Discovery in the Wild12'
 weight: 20
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -130,6 +130,7 @@ url_video: ''
 
 ---
 title: 'DataPrism: Exposing Disconnect between Data and Systems'
+weight:30
 authors:
   - admin
   - Anna Fariha
