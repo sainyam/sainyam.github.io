@@ -1,7 +1,7 @@
 ---
-title: 'Ver: View Discovery in the Wild12'
+title: 'Ver: View Discovery in the Wild'
 
-weight: 20
+weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -18,6 +18,8 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023'
+
+publishDate:'2023'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -82,7 +84,7 @@ slides: example
 
 
 ---
-title: 'Ver: View Discovery in the Wild2'
+title: 'Ver: View Discovery in the Wild'
 
 weight:10
 
