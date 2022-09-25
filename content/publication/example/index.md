@@ -19,7 +19,9 @@ authors:
 
 date: '2023'
 
-publishDate:'2023'
+publishDate: '2023'
+
+year: 2023
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
