@@ -1,5 +1,5 @@
 ---
-title:'Ver: View Discovery in the Wild12'
+title: 'Ver: View Discovery in the Wild12'
 
 weight: 20
 
