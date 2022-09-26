@@ -47,6 +47,14 @@ item:
     organization_url: 
     title: DAAD AInet Fellow
     url: ''
+- certificate_url: 
+    date_end: 
+    date_start: '2020-06-01'
+    description: ''
+    organization: 
+    organization_url: 
+    title: ACM SIGMOD Entity Resolution Programming Contest -- Top 5 finalist
+    url: ''
 
 design:
   columns: '2'
