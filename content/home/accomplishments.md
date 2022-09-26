@@ -24,13 +24,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: Selected as a Rising Star in Data Science at the Data Science Institute, UChicago
-  - title: Computing Innovation Fellowship Award Recipient (by CRA, CCC and NSF)
-  - title: DAAD AInet Fellow
-  - title: ACM SIGMOD Entity Resolution Programming Contest -- Top 5 finalist
-  - title: Most reproducible paper award in SIGMOD 2018 and 2019
-  - title: Best paper award in SIGSOFT FSE 2017
-  - title: First recipient of Krithi Ramamritham Computer Science Scholarship
-    
+  organization:''
+  date_start:''
+  
 design:
   columns: '2'
 ---
