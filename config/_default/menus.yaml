@@ -7,15 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  # - name: Posts
-  #  url: '#posts'
-  #  weight: 60
-  # - name: Projects
-  #   url: '#projects'
-  #  weight: 40
-  # - name: Talks
-  #  url: '#talks'
-  #  weight: 50
   - name: Awards
     url: '#accomplishments'
     weight: 40
@@ -34,3 +25,13 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+# - name: Posts
+#  url: '#posts'
+#  weight: 60
+# - name: Projects
+#   url: '#projects'
+#  weight: 40
+# - name: Talks
+#  url: '#talks'
+#  weight: 50
