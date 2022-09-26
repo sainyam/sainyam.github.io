@@ -1,6 +1,8 @@
 ---
 title: 'Ver: View Discovery in the Wild'
 
+weight: 10
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -15,7 +17,12 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: 2023-01-01T00:00:00Z
+
+publishDate: '2022-01-01T00:00:00Z'
+
+
+year: 2023
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -81,12 +88,16 @@ slides: example
 
 ---
 title: 'Ver: View Discovery in the Wild'
+
+weight:10
+
 authors:
   - Yue Gong
   - Zhiru Zhu
   - admin
   - Raul Castro Fernandez
 
+date:'2023'
 publication_types: ['1']
 publication: In International Conference on Data Engineering
 publication_short: In ICDE
@@ -129,6 +140,7 @@ url_video: ''
 
 ---
 title: 'DataPrism: Exposing Disconnect between Data and Systems'
+weight:30
 authors:
   - admin
   - Anna Fariha
