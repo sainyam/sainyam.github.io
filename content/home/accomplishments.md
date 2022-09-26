@@ -63,22 +63,6 @@ item:
     organization_url: 
     title: Most reproducible paper award in SIGMOD 2018 and 2019
     url: ''
- - certificate_url: 
-    date_end: ''
-    date_start: '2019-06-01'
-    description: ''
-    organization: 
-    organization_url: 
-    title: Most reproducible paper award in SIGMOD 2018 and 2019
-    url: ''
- - certificate_url: 
-    date_end: ''
-    date_start: '2019-06-01'
-    description: ''
-    organization: 
-    organization_url: 
-    title: Most reproducible paper award in SIGMOD 2018 and 2019
-    url: ''
 
  
 design:
