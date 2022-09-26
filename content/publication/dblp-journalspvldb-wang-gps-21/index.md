@@ -6,7 +6,7 @@ authors: ["Paul Y. Wang", "Sainyam Galhotra", "Romila Pradhan", "Babak Salimi"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Proc. VLDB Endow.*"
+publication: "VLDB"
 url_pdf: "http://www.vldb.org/pvldb/vol14/p2787-wang.pdf"
 doi: "10.14778/3476311.3476345"
 ---

@@ -6,7 +6,7 @@ authors: ["Sainyam Galhotra", "Udayan Khurana"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Proc. VLDB Endow.*"
+publication: "VLDB"
 url_pdf: "https://www.vldb.org/pvldb/vol15/p3562-galhotra.pdf"
 ---
 
