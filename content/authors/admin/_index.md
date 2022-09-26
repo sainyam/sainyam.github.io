@@ -15,7 +15,7 @@ organizations:
 -email: sainyam@uchicago.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:sainyam@uchicago.edu" 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SainyamGalhotra
@@ -75,6 +75,6 @@ I am a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computi
 I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
 <p style="font-size:20px; color:red; font-weight:bold;">
-I am in the academic job market. Please reach out if you have an opening.</p>
+I am in the academic job market. Please reach out to me(\url{sainyam@uchicago.edu} or \url{sainyamgalhotra@gmail.com}) if you have an opening.</p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
