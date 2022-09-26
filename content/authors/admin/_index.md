@@ -12,6 +12,8 @@ role: Postdoctoral Scholar
 organizations:
   - name: The University of Chicago
     url: [https://uchi-db.github.io/chidatasite/]
+    
+  -contact: sainyam@uchicago.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
