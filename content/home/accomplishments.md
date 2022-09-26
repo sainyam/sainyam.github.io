@@ -23,31 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
-
+  - title: Selected as a Rising Star in Data Science at the Data Science Institute, UChicago
+  - title: Computing Innovation Fellowship Award Recipient (by CRA, CCC and NSF)
+  - title: DAAD AInet Fellow
+  - title: ACM SIGMOD Entity Resolution Programming Contest -- Top 5 finalist
+  - title: Most reproducible paper award in SIGMOD 2018 and 2019
+  - title: Best paper award in SIGSOFT FSE 2017
+  - title: First recipient of Krithi Ramamritham Computer Science Scholarship
+    
 design:
   columns: '2'
 ---
