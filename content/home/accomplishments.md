@@ -53,7 +53,7 @@ item:
     description: ''
     organization: 
     organization_url: 
-    title: DAAD AInet Fellow
+    title: ACM SIGMOD Entity Resolution Programming Contest -- Top 5 finalist
     url: ''
 
  
