@@ -63,22 +63,23 @@ item:
     organization_url: 
     title: Most reproducible paper award in SIGMOD 2018 and 2019
     url: ''
-- certificate_url: 
+ - certificate_url: 
     date_end: ''
-    date_start: '2017-05-01'
+    date_start: '2019-06-01'
     description: ''
     organization: 
     organization_url: 
-    title: Best paper award in SIGSOFT FSE 2017
+    title: Most reproducible paper award in SIGMOD 2018 and 2019
     url: ''
-- certificate_url: 
+ - certificate_url: 
     date_end: ''
-    date_start: '2017-05-01'
+    date_start: '2019-06-01'
     description: ''
     organization: 
     organization_url: 
-    title: First recipient of Krithi Ramamritham Computer Science Scholarship
+    title: Most reproducible paper award in SIGMOD 2018 and 2019
     url: ''
+
  
 design:
   columns: '2'
