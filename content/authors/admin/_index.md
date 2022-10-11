@@ -70,7 +70,9 @@ email: 'sainyam@uchicago.edu'
 highlight_name: true
 ---
 
-I am a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computing Innovation Fellow{{< /staticref >}}  pursuing postdoctoral research at the University of Chicago. The goal of my research is to develop data discovery and integration tools for effective and responsible analytics. I strive to reduce data scientists' effort on dataset search and preparation (cleaning, integration, debugging) while enabling trust in the analytics pipeline and allowing them to focus on their downstream analysis. My work has borrowed techniques from causal inference, data management, theoretical computer science, crowdsourcing and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness.
+I am a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computing Innovation Fellow{{< /staticref >}}  pursuing postdoctoral research at the University of Chicago. The goal of my research is to develop data discovery and integration tools for effective and responsible analytics. My work has leveraged techniques from causal inference, data management, theoretical computer science, crowdsourcing and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness.
+
+# I work to reduce data scientists' effort on dataset search and preparation (cleaning, integration, debugging) while enabling trust in the analytics pipeline and allowing them to focus on their downstream analysis. 
 
 I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
