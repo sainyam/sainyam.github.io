@@ -7,8 +7,8 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ICDE*"
-url_pdf: ""
-doi: ""
+url_pdf: "https://arxiv.org/abs/2106.01543"
+doi: "https://arxiv.org/abs/2106.01543"
 ---
 
 
