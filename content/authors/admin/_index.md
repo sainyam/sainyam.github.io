@@ -73,6 +73,7 @@ highlight_name: true
 I am a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computing Innovation Fellow{{< /staticref >}}  pursuing postdoctoral research at the University of Chicago under the mentorship of Raul Castro Fernandez. The goal of my research is to develop data discovery and integration tools for effective and responsible analytics. My work has leveraged techniques from causal inference, data management, theoretical computer science, crowdsourcing and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness. I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014 under the guidance of Prof. Amitabha Bagchi. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
 <p style="font-size:20px; color:red; ">
-I am in the academic job market. Please reach out to me ({{< staticref "#contact">}}sainyam@uchicago.edu{{</staticref>}} or {{< staticref "#contact">}}sainyamgalhotra@gmail.com{{</staticref>}}) if you are hiring.</p>
+Starting in July 2023, I will be joining the Department of Computer Science at Cornell University as an Assistant Professor. I am actively looking for students to work with me. If you are interested, email me ({{< staticref "#contact">}}sg2385@cornell.edu{{</staticref>}} or {{< staticref "#contact">}}sainyamgalhotra@gmail.com{{</staticref>}}).
+</p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SainyamGalhotraCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
