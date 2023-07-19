@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: sg2385@cornell.edu
+  email: sg@cs.cornell.edu
  # phone: 888 888 88 88
  # address:
   #  street: 450 Serra Mall
