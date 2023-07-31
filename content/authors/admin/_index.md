@@ -75,4 +75,6 @@ I am an assistant professor at {{< staticref "https://www.cs.cornell.edu/" "newt
 I am actively looking for students to work with me. If you are interested, email me ({{< staticref "#contact">}}sg@cs.cornell.edu{{</staticref>}} or {{< staticref "#contact">}}sainyamgalhotra@gmail.com{{</staticref>}}).
 </p>
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SainyamGalhotraCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}}
+# Download my {{< staticref "uploads/SainyamGalhotraCV.pdf" "newtab" >}}
+# resumé{{< /staticref >}}.
