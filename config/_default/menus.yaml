@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Updates
-    url: '#updates'
+    url: '#accomplishments'
     weight: 40
   - name: Publications
     url: './publication/'
