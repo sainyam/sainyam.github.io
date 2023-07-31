@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: updates
 
 # This file represents a page section.
 headless: true
@@ -29,7 +29,7 @@ item:
     description: ''
     organization: 
     organization_url: 
-    title: Selected as a Rising Star in Data Science at the Data Science Institute, UChicago
+    title: Rising Star in Data Science at the Data Science Institute, UChicago
     url: ''
   - certificate_url: 
     date_end: ''
