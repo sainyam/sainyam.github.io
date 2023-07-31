@@ -75,8 +75,10 @@ highlight_name: true
 
 ---
 
-I am an assistant professor in Computer Science at  {{< staticref "https://www.cs.cornell.edu/" "newtab" >}}Cornell University{{< /staticref >}}. Before that, I was a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computing Innovation Fellow{{< /staticref >}}  pursuing postdoctoral research at the University of Chicago. The goal of my research is to develop data science tools for effective and responsible analytics. My work has leveraged techniques from causal inference, data management, theoretical computer science, ML and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness. I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014 under the guidance of Prof. Amitabha Bagchi. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
+I am an assistant professor in Computer Science at  {{< staticref "https://www.cs.cornell.edu/" "newtab" >}}Cornell University{{< /staticref >}}. Before that, I was a {{< staticref "https://cifellows2021.org/2021-class/" "newtab" >}}Computing Innovation Fellow{{< /staticref >}}  pursuing postdoctoral research at the University of Chicago. The goal of my research is to develop data science tools for effective and responsible analytics.<br>
+
+My work has leveraged techniques from causal inference, data management, theoretical computer science, ML and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness. I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014 under the guidance of Prof. Amitabha Bagchi. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
 <p style="font-size:20px; color:red; ">
-I am actively looking for students to work with me. If you are interested, email me ({{< staticref "#contact">}}sg@cs.cornell.edu{{</staticref>}} or {{< staticref "#contact">}}sainyamgalhotra@gmail.com{{</staticref>}}).
+I am actively looking for students to work with me. If you are interested, email me {{< staticref "#contact">}}sg@cs.cornell.edu{{</staticref>}}.
 </p>
