@@ -18,8 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
+  - Databases
   - Data Management
   - Responsible Data Science
+  - Causal Inference
+  - Machine Learning
 
 # Education to show in About widget
 education:
