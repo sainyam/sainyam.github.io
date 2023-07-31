@@ -24,15 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD 
+    - course: Postdoc
+      institution: University of Chicago
+    - course: MS, PhD 
       institution: University of Massachusetts Amherst
-      year: 2021
-    - course: MS
-      institution: University of Massachusetts Amherst
-      year: 2017
     - course: BTech
       institution: Indian Institute of Technology Delhi
-      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
