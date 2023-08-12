@@ -14,7 +14,7 @@ header:
   image: ''
 ---
 
-Below are some prospective projects for undergraduates, and masters students. Please go over these projects and their corresponding prerequisite list. <br>
+Below are some prospective projects for undergraduates, and masters students. Please go over the ongoing projects below. If you have an idea for a new project that you want to work with me, you can describe that too. <br>
 
 In your email to the professor, answer the following questions:<br>
 
@@ -22,9 +22,8 @@ In your email to the professor, answer the following questions:<br>
 2. Describe any of your relevant skills that would be helpful for this project
 3. How much time are you willing to devote to a project in a week?
 4. Till when can you work on a project?
-
-If a project is labelled as Experimental, please provide a sample of code that you wrote for a project.
- 
+5. What are your long term plans? 
+6. Include "" in your introductory email.
 
 <h2>Goal-oriented Data Science</h2>
 
