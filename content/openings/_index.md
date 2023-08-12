@@ -23,7 +23,7 @@ In your email to the professor, answer the following questions:<br>
 3. How much time are you willing to devote to a project in a week?
 4. Till when can you work on a project?
 5. What are your long term plans? 
-6. Include "" in your introductory email.
+6. Include "panda" at the end of your introductory email.
 
 <h2>Goal-oriented Data Science</h2>
 
