@@ -14,7 +14,9 @@ header:
   image: ''
 ---
 
-Below are some prospective projects for undergraduates, and masters students. Please go over the ongoing projects below. If you have an idea for a new project that you want to work with me, you can describe that too. <br>
+<b>Prospective PhDs and Postdocs:</b> Please go over my papers, and describe your ideas on how to extend them. Please include "panda" in your email. If you do not mention any potential extensions, I may not respond.
+
+<b>High School students, Interns, Undergraduates and Masters:</b> Below are some prospective projects. Please go over the ongoing projects below. If you have an idea for a new project that you want to work with me, you can describe that too. <br>
 
 In your email to the professor, answer the following questions:<br>
 
