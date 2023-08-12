@@ -26,4 +26,11 @@ In your email to the professor, answer the following questions:<br>
 If a project is labelled as Experimental, please provide a sample of code that you wrote for a project.
  
 
-Project 1
+<h2>Goal-oriented Data Science</h2>
+
+<h2>Causal Inference in Practice</h2>
+
+<h2>Data Debugging</h2>
+
+<h2>Human in the loop data science </h2>
+
