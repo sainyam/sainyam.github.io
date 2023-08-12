@@ -39,6 +39,11 @@ Relevant papers: Metam
 <h2>Human in the loop data science </h2>
 
 <h2>Responsible Data Science</h2> 
+<h3>Fairness</h3>
+<h3>Robustness</h3>
+<h3>Explainability</h3>
+
+<h2>Multi-modal Data Dsicovery</h2> 
 
 <h2>Prompt engineering for Data Preparation</h2>
 
