@@ -27,6 +27,11 @@ header:
 7. Include "panda" at the end of your introductory email.
    
 If you have an idea for a new project that you want to work with me, you can describe that too. 
+
+
+Mention 5 project directions and club the rest for my knowledge.
+
+
 <h2>Goal-oriented Data Science</h2> The project aims to build an open-source system to build data discovery and preparation toolkit for a downstream task. 
 Relevant papers: Metam
 
