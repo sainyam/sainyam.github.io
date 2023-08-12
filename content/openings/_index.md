@@ -28,10 +28,13 @@ header:
    
 If you have an idea for a new project that you want to work with me, you can describe that too. 
 <h2>Goal-oriented Data Science</h2> The project aims to build an open-source system to build data discovery and preparation toolkit for a downstream task. 
+Relevant papers: Metam
+
+<h2>Semantic Data Understanding</h2>
 
 <h2>Hypothetical Reasoning</h2>
 
-<h2>Data Debugging</h2>
+<h2>Debugging Data Science Pipelines</h2>
 
 <h2>Human in the loop data science </h2>
 
