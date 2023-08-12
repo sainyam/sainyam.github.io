@@ -38,6 +38,10 @@ Relevant papers: Metam
 <h2>Hypothetical Reasoning</h2>
 
 <h2>Debugging Data Science Pipelines</h2>
+- Debugging datasets
+- Development phase
+- Deployment phase
+
 
 <h2>Human in the loop data science </h2>
 
