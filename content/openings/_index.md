@@ -15,7 +15,7 @@ header:
 ---
 
 <b>Prospective Applicants:</b> 
-If you’re interested in working together, please go over the list of project directions below or my publications page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:
+If you’re interested in working together, please go over the list of project directions below or my <a hred="https://sainyamgalhotra.com/publication/">publications</a> page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:
 
 
 
