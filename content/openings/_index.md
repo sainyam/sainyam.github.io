@@ -1,5 +1,5 @@
 ---
-title: Project Openings
+title: Openings in the Lab
 cms_exclude: true
 
 # View.
@@ -14,7 +14,10 @@ header:
   image: ''
 ---
 
-<b>Prospective PhDs and Postdocs:</b> Please go over my papers, and describe your ideas on how to extend them. Please include "panda" in your email. If you do not mention any potential extensions, I may not respond.
+<b>Prospective Applicants:</b> 
+If you’re interested in working together, please go over the list of project directions below or my publications page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:
+
+
 
 <b>High School students, Interns, Undergraduates and Masters:</b> Please go over the ongoing projects below and answer the following questions in your email. <br>
 
