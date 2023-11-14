@@ -1,4 +1,4 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [Sainyam Galhotra website]
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
