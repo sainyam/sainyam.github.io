@@ -23,93 +23,23 @@ If you’re interested in working together, please go over the list of project d
 
 Below is a list of topics that I am currently working on. I am always interested to expand the list of topics based on my students' interests. Feel free to suggest any new topic along with a justification and relevant ideas. 
 
+<b> Responsible Data Science (Fairness, Explainability, Robustness) </b>
+<li> <a href="https://arxiv.org/abs/2212.10839"> Fairness aware ML</a>
+<li> <a href="https://dl.acm.org/doi/abs/10.1145/3448016.3458455"> Efficiently generating explanations for ML models</a>
+<li> <a href="https://arxiv.org/abs/2105.05782">Clustering in the presence of noise </a>
+
+<b> Causal Inference</b>
+<li> <a href="https://dl.acm.org/doi/abs/10.1145/3514221.3526149"> Hypothetical Reasoning over data</a>
+
+<b> Data Debugging</b>
+<li> <a href="https://dl.acm.org/doi/abs/10.1145/3514221.3517864"> Exposing disconnect between data and systems</a>
+
+
 <b> Data Discovery and Marketplaces</b>
 <li> <a href="https://arxiv.org/abs/2304.09068"> Goal-oriented Data Discovery</a>
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/10184768/"> Ver: View discovery in the wild</a>
 
 
 <b> Data Preparation</b>
-
-
-<b> Causal Inference</b>
-
-
-<b> Data Debugging</b>
-
-<b> Responsible Data Science (Fairness, Explainability, Robustness) </b>
-
-
-
-1. Which project are you most interested in and Why?
-2. What do you think are some shortcomings of the respective papers? 
-3. Describe any of your relevant skills that would be helpful for this project
-4. How much time are you willing to devote to a project in a week?
-5. Till when can you work on a project?
-6. What are your long term plans? 
-7. Include "panda" at the end of your introductory email.
-   
-If you have an idea for a new project that you want to work with me, you can describe that too. 
-
-
-Mention 5 project directions and club the rest for my knowledge.
-
-
-<h2>Goal-oriented Data Science</h2> The project aims to build an open-source system to build data discovery and preparation toolkit for a downstream task. 
-Relevant papers: Metam
-
-- EDA
-- Data Prep
-
-
-<h2>Semantic Data Understanding</h2>
-
-<h2>Practical Causal Inference</h2>
-- Efficiency of causal inference using semi-rings
-- Data discovery for causal inference
-
-<h2>Hypothetical Reasoning</h2>
-
-<h2>Debugging Data Science Pipelines</h2>
-- Debugging datasets
-- Development phase
-- Deployment phase
-
-
-<h2>Human in the loop data science </h2>
-
-<h2>Responsible Data Science</h2> 
-<h3>Fairness</h3>
-- Classification
-    -- noisy sensitive attribute
-    -- missing sensitive attribute
-- Clustering
-
-<h3>Robustness</h3>
-- Clustering
-- Oracle-based data analysis
-
-<h3>Explainability</h3>
-
-<h2>Multi-modal Data Dsicovery</h2> 
-- Extend metam 
-- Metam with transformations
-
-<h2>Prompt engineering for Data Preparation</h2>
-
-<h2>Fine-tuning LLMs</h2>
-
-
-
-
-
----------
----------
-Not urgent
-<h2>Multi-objective data science</h2>
-Extend goal-oriented for mutiple objectives. Skyline operations.
-- Lexicographic preference
-
-<h2>Data Discovery and Sharing</h2>
-- How to build a marketplace
-- Federated settings?
-
+<li> <a href="https://link.springer.com/article/10.1007/s00778-021-00656-7"> Entity Resolution</a>
 
