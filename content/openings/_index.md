@@ -16,10 +16,28 @@ header:
 
 <b>Prospective Applicants:</b> 
 If you’re interested in working together, please go over the list of project directions below or my <a href="https://sainyamgalhotra.com/publication/">publications</a> page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:
+1. Prospective Phd Applicants
+2. Prospective visiting students (Undergrads, masters or PhDs)
+3. Cornell Masters and Undergrads (any department)
 
 
+Below is a list of topics that I am currently working on. I am always interested to expand the list of topics based on my students' interests. Feel free to suggest any new topic along with a justification and relevant ideas. 
 
-<b>High School students, Interns, Undergraduates and Masters:</b> Please go over the ongoing projects below and answer the following questions in your email. <br>
+<b> Data Discovery and Marketplaces</b>
+<li> <a href="https://arxiv.org/abs/2304.09068"> Goal-oriented Data Discovery</a>
+
+
+<b> Data Preparation</b>
+
+
+<b> Causal Inference</b>
+
+
+<b> Data Debugging</b>
+
+<b> Responsible Data Science (Fairness, Explainability, Robustness) </b>
+
+
 
 1. Which project are you most interested in and Why?
 2. What do you think are some shortcomings of the respective papers? 
