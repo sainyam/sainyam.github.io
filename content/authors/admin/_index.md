@@ -80,5 +80,5 @@ I am an assistant professor in Computer Science at  {{< staticref "https://www.c
 My work has leveraged techniques from causal inference, data management, theoretical computer science, ML and HCI to understand various aspects of trustworthy system design including robustness, explainability, and fairness. I received my Ph.D. from University of Massachusetts Amherst under the supervision of Barna Saha. I completed my undergraduate studies from Indian Institute of Technology Delhi (IIT Delhi) in May, 2014 under the guidance of Prof. Amitabha Bagchi. Prior to joining UMass, I worked as a budding scientist at Xerox Research Centre India, Bangalore for a year.
 
 <p style="font-size:20px; color:red; ">
-I am actively looking for students to work with me. If you are interested, email me {{< staticref "#contact">}}sg@cs.cornell.edu{{</staticref>}}.
+I am actively looking for students to work with me. If you are interested, please complete an application <a href="https://sainyamgalhotra.com/openings/"> here </a> and email me {{< staticref "#contact">}}sg@cs.cornell.edu{{</staticref>}}.
 </p>
