@@ -17,7 +17,7 @@ header:
 <b>Prospective Applicants:</b> 
 If you’re interested in working together, please go over the list of project directions below or my <a href="https://sainyamgalhotra.com/publication/">publications</a> page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below and email me:
 1. <a href="https://docs.google.com/forms/d/e/1FAIpQLScB64oYO9VPAYM9tVC7sPeVhvEqkS1G6s2XecVQyXMHw3pmFw/viewform?usp=sf_link"> Prospective Phd Applicants</a>
-2. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcW9vX4UMwd3K9WrDUQ9DtdpWfCmeYJEAAMybAdK-hwiSGQ/viewform?usp=sf_link">Prospective visiting students (Undergrads, masters or PhDs)</a>
+2. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJcW9vX4UMwd3K9WrDUQ9DtdpWfCmeYJEAAMybAdK-hwiSGQ/viewform?usp=sf_link">Prospective visiting students (Undergrads, masters, PhDs or Postdocs)</a>
 3. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbPzEdt8hl4HNBcBkijtpFlMM0mv2EHkj3VDILSCsTiacL_g/viewform?usp=sf_link">Cornell Masters and Undergrads (any department)</a>
 
 
