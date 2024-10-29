@@ -22,11 +22,11 @@ Anna Mazhar <br>
 Eric Enouen <br>
 Ning Wang <br>
 Wenzhi Li
-<br><br>
+<br>
 
 
 
-<b> Masters and Undergraduate Students</b<<br>
+<b> Masters and Undergraduate Students</b>
 
 Ved Sriraman <br>
 Andrew Kang <br>
