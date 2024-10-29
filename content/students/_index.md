@@ -1,5 +1,5 @@
 ---
-title: Students
+title: Students1
 cms_exclude: true
 
 # View.
@@ -15,13 +15,7 @@ header:
   image: ''
   
 item:
-  - certificate_url: 
-    date_end: ''
-    date_start: '2021-10-25'
-    description: ''
-    organization: 
-    organization_url: 
-    title: Rising Star in Data Science at the Data Science Institute, UChicago
+  - title: Rising Star in Data Science at the Data Science Institute, UChicago
     url: ''
   - certificate_url: 
     date_end: ''
