@@ -15,7 +15,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
+# Students
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
