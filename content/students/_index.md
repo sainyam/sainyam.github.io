@@ -1,5 +1,5 @@
 ---
-title: Students
+title: 
 cms_exclude: true
 
 # View.
@@ -16,7 +16,7 @@ header:
 ---
 
 
-PhD Students<br>
+<b>PhD Students</b><br>
 
 Anna Mazhar <br>
 Eric Enouen <br>
