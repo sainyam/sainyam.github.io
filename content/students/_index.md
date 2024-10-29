@@ -16,8 +16,7 @@ header:
 ---
 
 
-<b>PhD Students</b><br>
-
+<b>PhD Students</b>
 Anna Mazhar <br>
 Eric Enouen <br>
 Ning Wang <br>
@@ -25,9 +24,7 @@ Wenzhi Li
 <br>
 
 
-
 <b> Masters and Undergraduate Students</b>
-
 Ved Sriraman <br>
 Andrew Kang <br>
 Shubham Mohole<br>
