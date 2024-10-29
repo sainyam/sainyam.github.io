@@ -1,12 +1,16 @@
 ---
-title: "Optimal Radius for Connectivity in Duty-Cycled Wireless Sensor Networks"
-date: 2014-01-01
-publishDate: 2022-09-26T01:55:09.978417Z
-authors: ["Amitabha Bagchi", "Maria Cristina Pinotti", "Sainyam Galhotra", "Tarun Mangla"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*CoRR*"
-url_pdf: "http://arxiv.org/abs/1408.5069"
+title: Optimal Radius for Connectivity in Duty-Cycled Wireless Sensor Networks
+authors:
+- Amitabha Bagchi
+- Maria Cristina Pinotti
+- Sainyam Galhotra
+- Tarun Mangla
+date: '2014-01-01'
+publishDate: '2024-10-29T18:12:19.332311Z'
+publication_types:
+- article-journal
+publication: '*CoRR*'
+links:
+- name: URL
+  url: http://arxiv.org/abs/1408.5069
 ---
-

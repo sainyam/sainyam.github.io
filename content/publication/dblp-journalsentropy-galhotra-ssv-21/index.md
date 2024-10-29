@@ -1,13 +1,17 @@
 ---
-title: "Interventional Fairness with Indirect Knowledge of Unobserved Protected Attributes"
-date: 2021-01-01
-publishDate: 2022-09-26T01:55:09.970763Z
-authors: ["Sainyam Galhotra", "Karthikeyan Shanmugam", "Prasanna Sattigeri", "Kush R. Varshney"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*Entropy*"
-url_pdf: "https://doi.org/10.3390/e23121571"
-doi: "10.3390/e23121571"
+title: Interventional Fairness with Indirect Knowledge of Unobserved Protected Attributes
+authors:
+- Sainyam Galhotra
+- Karthikeyan Shanmugam
+- Prasanna Sattigeri
+- Kush R. Varshney
+date: '2021-01-01'
+publishDate: '2024-10-29T18:12:18.901590Z'
+publication_types:
+- article-journal
+publication: '*Entropy*'
+doi: 10.3390/E23121571
+links:
+- name: URL
+  url: https://doi.org/10.3390/e23121571
 ---
-
