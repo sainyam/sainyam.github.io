@@ -37,8 +37,7 @@ authors:
 - Kai Zeng
 date: '2023-01-01'
 publishDate: '2024-10-29T18:12:18.750390Z'
-publication_types:
-- book
+publication_types: ["2"]
 publication: '*CEUR-WS.org*'
 links:
 - name: URL
