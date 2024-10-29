@@ -8,8 +8,7 @@ authors:
 - Stavros Sintos
 date: '2024-01-01'
 publishDate: '2024-10-29T18:12:18.623231Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Proc. ACM Manag. Data*'
 doi: 10.1145/3654940
 links:
