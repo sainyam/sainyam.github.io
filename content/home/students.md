@@ -1,6 +1,4 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: students
 
 # This file represents a page section.
