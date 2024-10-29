@@ -11,7 +11,7 @@ main:
     url: '#accomplishments'
     weight: 40
   - name: Students
-    url: './students/'
+    url: '#students'
     weight: 40
   - name: Teaching
     url: './teaching/'
