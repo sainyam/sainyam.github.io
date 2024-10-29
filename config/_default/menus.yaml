@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Updates
-    url: '#accomplishments'
-    weight: 40
   - name: Students
     url: './students/'
     weight: 40
@@ -21,7 +18,7 @@ main:
     weight: 20
   - name: Service
     url: './service/'
-    weight: 20
+    weight: 45
   
   - name: Contact
     url: '#contact'
