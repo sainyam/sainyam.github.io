@@ -16,9 +16,9 @@ header:
 ---
 <b>PhD Students</b><br>
 Anna Mazhar <br>
-Eric Enouen <br>
+<a href="https://ericenouen.github.io/">Eric Enouen </a> <br>
 Ning Wang <br>
-Wenzhi Li
+<a href="https://wenzhilics.github.io/">Wenzhi Li</a>
 <br>
 
 
@@ -31,5 +31,5 @@ Stanley Jiang<br>
 Benton Li
 
 <b> Visiting Students and Interns</b><br>
-Rahul Ray Chaudhary (PhD student, Duke University)<br>
+<a href="https://www.rahulraychaudhury.com/main">Rahul Ray Chaudhary</a> (PhD student, Duke University)<br>
 Charbel Churi (EPFL) <br><br>
