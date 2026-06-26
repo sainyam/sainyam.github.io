@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sainyam Galhotra</title><link>https://sainyamgalhotra.com/</link><atom:link href="https://sainyamgalhotra.com/index.xml" rel="self" type="application/rss+xml"/><description>Sainyam Galhotra</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://sainyamgalhotra.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Sainyam Galhotra</title><link>https://sainyamgalhotra.com/</link></image><item><title>Example Talk</title><link>https://sainyamgalhotra.com/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>HARP: Efficient Data Selection for Finetuning Large Language Models</title><link>https://sainyamgalhotra.com/publication/arxiv-wang-zhang-tang-gao-cardie-galhotra-26/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-wang-zhang-tang-gao-cardie-galhotra-26/</guid><description/></item><item><title>How Far Are We From True Auto-Research?</title><link>https://sainyamgalhotra.com/publication/arxiv-zhang-wang-galhotra-cardie-26/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-zhang-wang-galhotra-cardie-26/</guid><description/></item><item><title>Towards Reliable Testing of Machine Unlearning</title><link>https://sainyamgalhotra.com/publication/arxiv-mazhar-galhotra-26/</link><pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-mazhar-galhotra-26/</guid><description/></item><item><title>Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation</title><link>https://sainyamgalhotra.com/publication/arxiv-wang-zhu-yee-gao-huang-xu-galhotra-26/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-wang-zhu-yee-gao-huang-xu-galhotra-26/</guid><description/></item><item><title>Metric $k$-clustering using only Weak Comparison Oracles</title><link>https://sainyamgalhotra.com/publication/arxiv-raychaudhury-esmailpour-galhotra-sintos-26/</link><pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-raychaudhury-esmailpour-galhotra-sintos-26/</guid><description/></item><item><title>Octopus: A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval</title><link>https://sainyamgalhotra.com/publication/arxiv-li-galhotra-26/</link><pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-li-galhotra-26/</guid><description/></item><item><title>Debugging Concept Bottleneck Models through Removal and Retraining</title><link>https://sainyamgalhotra.com/publication/arxiv-enouen-galhotra-25/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-enouen-galhotra-25/</guid><description/></item><item><title>Goal-Oriented Reliability and Self-Improvement for Multi-Agent Systems</title><link>https://sainyamgalhotra.com/publication/acm-aias-katharki-galhotra-26/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/acm-aias-katharki-galhotra-26/</guid><description/></item><item><title>Interpretable Attribute Discretization</title><link>https://sainyamgalhotra.com/publication/pacmmod-lai-croitoru-youngmann-galhotra-rezig-cafarella-26/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/pacmmod-lai-croitoru-youngmann-galhotra-rezig-cafarella-26/</guid><description/></item><item><title>Is Graph Unlearning Ready for Practice? A Benchmark on Efficiency, Utility, and Forgetting</title><link>https://sainyamgalhotra.com/publication/preprint-jain-kalvani-galhotra-ranu-26/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/preprint-jain-kalvani-galhotra-ranu-26/</guid><description/></item><item><title>Trace-Level Analysis of Information Contamination in Multi-Agent Systems</title><link>https://sainyamgalhotra.com/publication/acm-aias-mazhar-suri-galhotra-26/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/acm-aias-mazhar-suri-galhotra-26/</guid><description/></item><item><title>QJoin: Transformation-aware Joinable Data Discovery Using Reinforcement Learning</title><link>https://sainyamgalhotra.com/publication/arxiv-wang-galhotra-qjoin-25/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-wang-galhotra-qjoin-25/</guid><description/></item><item><title>Causal Fuzzing for Verifying Machine Unlearning</title><link>https://sainyamgalhotra.com/publication/arxiv-mazhar-galhotra-causal-fuzzing-25/</link><pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-mazhar-galhotra-causal-fuzzing-25/</guid><description/></item><item><title>Benchmarking Robust Aggregation in Decentralized Gradient Marketplaces</title><link>https://sainyamgalhotra.com/publication/arxiv-song-galhotra-mehnaz-25/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-song-galhotra-mehnaz-25/</guid><description/></item><item><title>Towards General-Purpose Data Discovery: A Programming Languages Approach</title><link>https://sainyamgalhotra.com/publication/arxiv-kang-saha-galhotra-25/</link><pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-kang-saha-galhotra-25/</guid><description/></item><item><title>SIFOTL: A Principled, Statistically-Informed Fidelity-Optimization Method for Tabular Learning</title><link>https://sainyamgalhotra.com/publication/arxiv-mohole-galhotra-25/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-mohole-galhotra-25/</guid><description/></item><item><title>VERIRAG: A Post-Retrieval Auditing of Scientific Study Summaries</title><link>https://sainyamgalhotra.com/publication/arxiv-verirag-mohole-choi-liu-klymko-kushwaha-shi-sakla-galhotra-glatt-25/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-verirag-mohole-choi-liu-klymko-kushwaha-shi-sakla-galhotra-glatt-25/</guid><description/></item><item><title>A Theoretical Framework for Distribution-Aware Dataset Search</title><link>https://sainyamgalhotra.com/publication/arxiv-esmailpour-galhotra-raychaudhury-sintos-25/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/arxiv-esmailpour-galhotra-raychaudhury-sintos-25/</guid><description/></item><item><title>Data Discovery in Data Lakes: Operations, Indexes, Systems</title><link>https://sainyamgalhotra.com/publication/pvldb-abedjan-esmailoghli-galhotra-25/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/pvldb-abedjan-esmailoghli-galhotra-25/</guid><description/></item><item><title>FAIR-SHEPHERD: An Interactive System for Auditable Fairness via Population-Grounded Surrogates</title><link>https://sainyamgalhotra.com/publication/icdmw-mohole-galhotra-25/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/icdmw-mohole-galhotra-25/</guid><description/></item><item><title>VERIRAG: Healthcare Claim Verification via Statistical Audit</title><link>https://sainyamgalhotra.com/publication/llnl-verirag-mohole-choi-liu-kushwaha-shi-galhotra-glatt-25/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/llnl-verirag-mohole-choi-liu-kushwaha-shi-galhotra-glatt-25/</guid><description/></item><item><title>VERIRAG: Healthcare Claim Verification via Statistical Audit in Retrieval-Augmented Generation</title><link>https://sainyamgalhotra.com/publication/acm-bcb-verirag-mohole-choi-liu-klymko-kushwaha-shi-sakla-galhotra-glatt-25/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/acm-bcb-verirag-mohole-choi-liu-klymko-kushwaha-shi-sakla-galhotra-glatt-25/</guid><description/></item><item><title>Building Taxonomies with Triplet Queries</title><link>https://sainyamgalhotra.com/publication/dblp-confsebd-firmani-gss-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsebd-firmani-gss-24/</guid><description/></item><item><title>Demonstration of Ver: View Discovery in the Wild</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-dharmawan-kgyzgk-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-dharmawan-kgyzgk-24/</guid><description/></item><item><title>Fainder: A Fast and Accurate Index for Distribution-Aware Dataset Search</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-behme-gbm-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-behme-gbm-24/</guid><description/></item><item><title>Faster Algorithms for Fair Max-Min Diversification in R(^mboxd)</title><link>https://sainyamgalhotra.com/publication/dblp-journalspacmmod-kurkure-swgs-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspacmmod-kurkure-swgs-24/</guid><description/></item><item><title>First Workshop on Governance, Understanding and Integration of Data for Effective and Responsible AI (GUIDE-AI)</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-asudeh-ggsy-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-asudeh-ggsy-24/</guid><description/></item><item><title>Intervention and Conditioning in Causal Bayesian Networks</title><link>https://sainyamgalhotra.com/publication/dblp-neurips24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-neurips24/</guid><description/></item><item><title>Nexus: Correlation Discovery over Collections of Spatio-Temporal Tabular Data</title><link>https://sainyamgalhotra.com/publication/dblp-journalspacmmod-gong-gf-24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspacmmod-gong-gf-24/</guid><description/></item><item><title>Consistent Range Approximation for Fair Predictive Modeling</title><link>https://sainyamgalhotra.com/publication/dblp-journalsvldb-zhu-gss-23/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalsvldb-zhu-gss-23/</guid><description/></item><item><title>Causal What-If and How-To Analysis Using HypeR</title><link>https://sainyamgalhotra.com/publication/dblp-conficde-shen-hgggrs-23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-conficde-shen-hgggrs-23/</guid><description/></item><item><title>Community Recovery in the Geometric Block Model</title><link>https://sainyamgalhotra.com/publication/dblp-journalsjmlr-galhotra-mps-23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalsjmlr-galhotra-mps-23/</guid><description/></item><item><title>Consistent Range Approximation for Fair Predictive Modeling</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-zhu-gss-23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-zhu-gss-23/</guid><description/></item><item><title>Joint Proceedings of Workshops at the 49th International Conference on Very Large Data Bases (VLDB 2023), Vancouver, Canada, August 28 - September 1, 2023</title><link>https://sainyamgalhotra.com/publication/dblp-confvldb-2023-w/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confvldb-2023-w/</guid><description/></item><item><title>Metam: Goal-Oriented Data Discovery</title><link>https://sainyamgalhotra.com/publication/dblp-conficde-galhotra-gf-23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-conficde-galhotra-gf-23/</guid><description/></item><item><title>Ver: View Discovery in the Wild</title><link>https://sainyamgalhotra.com/publication/dblp-conficde-gong-zgf-23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-conficde-gong-zgf-23/</guid><description/></item><item><title>Automated Relational Data Explanation using External Semantic Knowledge</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-galhotra-k-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-galhotra-k-22/</guid><description/></item><item><title>Causal Feature Selection for Algorithmic Fairness</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ssv-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ssv-22/</guid><description/></item><item><title>DataPrism: Exposing Disconnect between Data and Systems</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-flfms-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-flfms-22/</guid><description/></item><item><title>Explainable AI: Foundations, Applications, Opportunities for Data Management Research</title><link>https://sainyamgalhotra.com/publication/dblp-conficde-pradhan-lgs-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-conficde-pradhan-lgs-22/</guid><description/></item><item><title>Explainable AI: Foundations, Applications, Opportunities for Data Management Research</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-pradhan-lgs-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-pradhan-lgs-22/</guid><description/></item><item><title>Fair k-Center Clustering in MapReduce and Streaming Settings</title><link>https://sainyamgalhotra.com/publication/dblp-confwww-bera-dgk-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confwww-bera-dgk-22/</guid><description/></item><item><title>Hierarchical Entity Resolution using an Oracle</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-22/</guid><description/></item><item><title>HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-grs-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-grs-22/</guid><description/></item><item><title>Revisiting Online Data Markets in 2022: A Seller and Buyer Perspective</title><link>https://sainyamgalhotra.com/publication/dblp-journalssigmod-kennedy-sgf-22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalssigmod-kennedy-sgf-22/</guid><description/></item><item><title>Adaptive Rule Discovery for Labeling Text Data</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-gt-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-gt-21/</guid><description/></item><item><title>BEER: Blocking for Effective Entity Resolution</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-21/</guid><description/></item><item><title>Demonstration of Generating Explanations for Black-Box Algorithms Using Lewis</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-wang-gps-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-wang-gps-21/</guid><description/></item><item><title>Efficient and effective ER with progressive blocking</title><link>https://sainyamgalhotra.com/publication/dblp-journalsvldb-galhotra-fss-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalsvldb-galhotra-fss-21/</guid><description/></item><item><title>Explaining Black-Box Algorithms Using Probabilistic Contrastive Counterfactuals</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ps-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ps-21/</guid><description/></item><item><title>How to Design Robust Algorithms using Noisy Comparison Oracle</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-addanki-gs-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-addanki-gs-21/</guid><description/></item><item><title>Interventional Fairness with Indirect Knowledge of Unobserved Protected Attributes</title><link>https://sainyamgalhotra.com/publication/dblp-journalsentropy-galhotra-ssv-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalsentropy-galhotra-ssv-21/</guid><description/></item><item><title>Learning to Generate Fair Clusters from Demonstrations</title><link>https://sainyamgalhotra.com/publication/dblp-confaies-galhotra-sz-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confaies-galhotra-sz-21/</guid><description/></item><item><title>Semantic Concept Annotation for Tabular Data</title><link>https://sainyamgalhotra.com/publication/dblp-confcikm-khurana-g-21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confcikm-khurana-g-21/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://sainyamgalhotra.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Balancing the Tradeoff Between Clustering Value and Interpretability</title><link>https://sainyamgalhotra.com/publication/dblp-confaies-saisubramanian-g-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confaies-saisubramanian-g-20/</guid><description/></item><item><title>Reliable Clustering with Applications to Data Integration</title><link>https://sainyamgalhotra.com/publication/dblp-confvldb-galhotra-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confvldb-galhotra-20/</guid><description/></item><item><title>Semantic Search over Structured Data</title><link>https://sainyamgalhotra.com/publication/dblp-confcikm-galhotra-k-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confcikm-galhotra-k-20/</guid><description/></item><item><title>Slides</title><link>https://sainyamgalhotra.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Automated Feature Enhancement for Predictive Modeling using External Knowledge</title><link>https://sainyamgalhotra.com/publication/dblp-conficdm-galhotra-khssq-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-conficdm-galhotra-khssq-19/</guid><description/></item><item><title>Connectivity of Random Annulus Graphs and the Geometric Block Model</title><link>https://sainyamgalhotra.com/publication/dblp-confapprox-galhotra-mps-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confapprox-galhotra-mps-19/</guid><description/></item><item><title>Crowd-Sourced Entity Resolution with Control Queries</title><link>https://sainyamgalhotra.com/publication/dblp-confsebd-galhotra-fss-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsebd-galhotra-fss-19/</guid><description/></item><item><title>Influence Maximization Revisited: The State of the Art and the Gaps that Remain</title><link>https://sainyamgalhotra.com/publication/dblp-confedbt-0001-gr-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confedbt-0001-gr-19/</guid><description/></item><item><title>Robust Entity Resolution Using a CrowdOracle</title><link>https://sainyamgalhotra.com/publication/dblp-journalsdebu-firmani-gss-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalsdebu-firmani-gss-18/</guid><description/></item><item><title>Robust Entity Resolution using Random Graphs</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-fss-18/</guid><description/></item><item><title>The Geometric Block Model</title><link>https://sainyamgalhotra.com/publication/dblp-confaaai-galhotra-mps-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confaaai-galhotra-mps-18/</guid><description/></item><item><title>The Geometric Block Model and Applications</title><link>https://sainyamgalhotra.com/publication/dblp-confallerton-galhotra-pms-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confallerton-galhotra-pms-18/</guid><description/></item><item><title>Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-arora-gr-17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-arora-gr-17/</guid><description/></item><item><title>Fairness testing: testing software for discrimination</title><link>https://sainyamgalhotra.com/publication/dblp-confsigsoft-galhotra-bm-17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigsoft-galhotra-bm-17/</guid><description/></item><item><title>Example Project</title><link>https://sainyamgalhotra.com/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Holistic Influence Maximization: Combining Scalability and Efficiency with Opinion-Aware Models</title><link>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ar-16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confsigmod-galhotra-ar-16/</guid><description/></item><item><title>QA(^mboxRT): A System for Real-Time Holistic Quality Assurance for Contact Center Dialogues</title><link>https://sainyamgalhotra.com/publication/dblp-confaaai-roy-mdsgp-16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confaaai-roy-mdsgp-16/</guid><description/></item><item><title>ASIM: A Scalable Algorithm for Influence Maximization under the Independent Cascade Model</title><link>https://sainyamgalhotra.com/publication/dblp-confwww-galhotra-avr-15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confwww-galhotra-avr-15/</guid><description/></item><item><title>Optimal Radius for Connectivity in Duty-Cycled Wireless Sensor Networks</title><link>https://sainyamgalhotra.com/publication/dblp-journalstosn-bagchi-gmp-15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalstosn-bagchi-gmp-15/</guid><description/></item><item><title>STAR: Real-time Spatio-Temporal Analysis and Prediction of Traffic Insights using Social Media</title><link>https://sainyamgalhotra.com/publication/dblp-confcods-semwal-pgau-15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confcods-semwal-pgau-15/</guid><description/></item><item><title>Tracking the Conductance of Rapidly Evolving Topic-Subgraphs</title><link>https://sainyamgalhotra.com/publication/dblp-journalspvldb-galhotra-bbrj-15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-journalspvldb-galhotra-bbrj-15/</guid><description/></item><item><title>Min-d-Occur: Ensuring Future Occurrences in Streaming Sets</title><link>https://sainyamgalhotra.com/publication/dblp-confuai-jain-g-14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confuai-jain-g-14/</guid><description/></item><item><title>Optimal radius for connectivity in duty-cycled wireless sensor networks</title><link>https://sainyamgalhotra.com/publication/dblp-confmswim-bagchi-pgm-13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/publication/dblp-confmswim-bagchi-pgm-13/</guid><description/></item><item><title/><link>https://sainyamgalhotra.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/admin/config.yml</guid><description/></item><item><title>Goal-oriented Data Science</title><link>https://sainyamgalhotra.com/projects/example/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/projects/example/</guid><description/></item><item><title>Openings in the Lab</title><link>https://sainyamgalhotra.com/openings/bckp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/openings/bckp/</guid><description>&lt;p>&lt;b>Prospective Applicants:&lt;/b>
+If you’re interested in working together, please go over the list of project directions below or my &lt;a href="https://sainyamgalhotra.com/publication/">publications&lt;/a> page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:&lt;/p>
+&lt;ol>
+&lt;li>Prospective Phd Applicants&lt;/li>
+&lt;li>Prospective visiting students (Undergrads, masters or PhDs)&lt;/li>
+&lt;li>Cornell Masters and Undergrads (any department)&lt;/li>
+&lt;/ol>
+&lt;p>Below is a list of topics that I am currently working on. I am always interested to expand the list of topics based on my students&amp;rsquo; interests. Feel free to suggest any new topic along with a justification and relevant ideas.&lt;/p>
+&lt;p>&lt;b> Data Discovery and Marketplaces&lt;/b>&lt;/p>
+&lt;li> &lt;a href="https://arxiv.org/abs/2304.09068"> Goal-oriented Data Discovery&lt;/a>
+&lt;p>&lt;b> Data Preparation&lt;/b>&lt;/p>
+&lt;p>&lt;b> Causal Inference&lt;/b>&lt;/p>
+&lt;p>&lt;b> Data Debugging&lt;/b>&lt;/p>
+&lt;p>&lt;b> Responsible Data Science (Fairness, Explainability, Robustness) &lt;/b>&lt;/p>
+&lt;ol>
+&lt;li>Which project are you most interested in and Why?&lt;/li>
+&lt;li>What do you think are some shortcomings of the respective papers?&lt;/li>
+&lt;li>Describe any of your relevant skills that would be helpful for this project&lt;/li>
+&lt;li>How much time are you willing to devote to a project in a week?&lt;/li>
+&lt;li>Till when can you work on a project?&lt;/li>
+&lt;li>What are your long term plans?&lt;/li>
+&lt;li>Include &amp;ldquo;panda&amp;rdquo; at the end of your introductory email.&lt;/li>
+&lt;/ol>
+&lt;p>If you have an idea for a new project that you want to work with me, you can describe that too.&lt;/p>
+&lt;p>Mention 5 project directions and club the rest for my knowledge.&lt;/p>
+&lt;h2>Goal-oriented Data Science&lt;/h2> The project aims to build an open-source system to build data discovery and preparation toolkit for a downstream task.
+Relevant papers: Metam
+&lt;ul>
+&lt;li>EDA&lt;/li>
+&lt;li>Data Prep&lt;/li>
+&lt;/ul>
+&lt;h2>Semantic Data Understanding&lt;/h2>
+&lt;h2>Practical Causal Inference&lt;/h2>
+- Efficiency of causal inference using semi-rings
+- Data discovery for causal inference
+&lt;h2>Hypothetical Reasoning&lt;/h2>
+&lt;h2>Debugging Data Science Pipelines&lt;/h2>
+- Debugging datasets
+- Development phase
+- Deployment phase
+&lt;h2>Human in the loop data science &lt;/h2>
+&lt;h2>Responsible Data Science&lt;/h2>
+&lt;h3>Fairness&lt;/h3>
+- Classification
+-- noisy sensitive attribute
+-- missing sensitive attribute
+- Clustering
+&lt;h3>Robustness&lt;/h3>
+- Clustering
+- Oracle-based data analysis
+&lt;h3>Explainability&lt;/h3>
+&lt;h2>Multi-modal Data Dsicovery&lt;/h2>
+- Extend metam
+- Metam with transformations
+&lt;h2>Prompt engineering for Data Preparation&lt;/h2>
+&lt;h2>Fine-tuning LLMs&lt;/h2>
+&lt;hr>
+&lt;hr>
+&lt;p>Not urgent&lt;/p>
+&lt;h2>Multi-objective data science&lt;/h2>
+Extend goal-oriented for mutiple objectives. Skyline operations.
+- Lexicographic preference
+&lt;h2>Data Discovery and Sharing&lt;/h2>
+- How to build a marketplace
+- Federated settings?</description></item><item><title>Openings in the Lab</title><link>https://sainyamgalhotra.com/prism-lab/bckp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sainyamgalhotra.com/prism-lab/bckp/</guid><description>&lt;p>&lt;b>Prospective Applicants:&lt;/b>
+If you’re interested in working together, please go over the list of project directions below or my &lt;a href="https://sainyamgalhotra.com/publication/">publications&lt;/a> page to see what I work on. Find a paper that look interesting and read it fully. If you’re still interested, please complete the corresponding form below:&lt;/p>
+&lt;ol>
+&lt;li>Prospective Phd Applicants&lt;/li>
+&lt;li>Prospective visiting students (Undergrads, masters or PhDs)&lt;/li>
+&lt;li>Cornell Masters and Undergrads (any department)&lt;/li>
+&lt;/ol>
+&lt;p>Below is a list of topics that I am currently working on. I am always interested to expand the list of topics based on my students&amp;rsquo; interests. Feel free to suggest any new topic along with a justification and relevant ideas.&lt;/p>
+&lt;p>&lt;b> Data Discovery and Marketplaces&lt;/b>&lt;/p>
+&lt;li> &lt;a href="https://arxiv.org/abs/2304.09068"> Goal-oriented Data Discovery&lt;/a>
+&lt;p>&lt;b> Data Preparation&lt;/b>&lt;/p>
+&lt;p>&lt;b> Causal Inference&lt;/b>&lt;/p>
+&lt;p>&lt;b> Data Debugging&lt;/b>&lt;/p>
+&lt;p>&lt;b> Responsible Data Science (Fairness, Explainability, Robustness) &lt;/b>&lt;/p>
+&lt;ol>
+&lt;li>Which project are you most interested in and Why?&lt;/li>
+&lt;li>What do you think are some shortcomings of the respective papers?&lt;/li>
+&lt;li>Describe any of your relevant skills that would be helpful for this project&lt;/li>
+&lt;li>How much time are you willing to devote to a project in a week?&lt;/li>
+&lt;li>Till when can you work on a project?&lt;/li>
+&lt;li>What are your long term plans?&lt;/li>
+&lt;li>Include &amp;ldquo;panda&amp;rdquo; at the end of your introductory email.&lt;/li>
+&lt;/ol>
+&lt;p>If you have an idea for a new project that you want to work with me, you can describe that too.&lt;/p>
+&lt;p>Mention 5 project directions and club the rest for my knowledge.&lt;/p>
+&lt;h2>Goal-oriented Data Science&lt;/h2> The project aims to build an open-source system to build data discovery and preparation toolkit for a downstream task.
+Relevant papers: Metam
+&lt;ul>
+&lt;li>EDA&lt;/li>
+&lt;li>Data Prep&lt;/li>
+&lt;/ul>
+&lt;h2>Semantic Data Understanding&lt;/h2>
+&lt;h2>Practical Causal Inference&lt;/h2>
+- Efficiency of causal inference using semi-rings
+- Data discovery for causal inference
+&lt;h2>Hypothetical Reasoning&lt;/h2>
+&lt;h2>Debugging Data Science Pipelines&lt;/h2>
+- Debugging datasets
+- Development phase
+- Deployment phase
+&lt;h2>Human in the loop data science &lt;/h2>
+&lt;h2>Responsible Data Science&lt;/h2>
+&lt;h3>Fairness&lt;/h3>
+- Classification
+-- noisy sensitive attribute
+-- missing sensitive attribute
+- Clustering
+&lt;h3>Robustness&lt;/h3>
+- Clustering
+- Oracle-based data analysis
+&lt;h3>Explainability&lt;/h3>
+&lt;h2>Multi-modal Data Dsicovery&lt;/h2>
+- Extend metam
+- Metam with transformations
+&lt;h2>Prompt engineering for Data Preparation&lt;/h2>
+&lt;h2>Fine-tuning LLMs&lt;/h2>
+&lt;hr>
+&lt;hr>
+&lt;p>Not urgent&lt;/p>
+&lt;h2>Multi-objective data science&lt;/h2>
+Extend goal-oriented for mutiple objectives. Skyline operations.
+- Lexicographic preference
+&lt;h2>Data Discovery and Sharing&lt;/h2>
+- How to build a marketplace
+- Federated settings?</description></item></channel></rss>
