@@ -1,0 +1,351 @@
+{{- $publications := sort (where site.RegularPages "Section" "publication") "Date" "desc" -}}
+<!doctype html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications | {{ site.Title }}</title>
+  <meta name="description" content="Selected publications by Sainyam Galhotra.">
+  <style>
+    :root {
+      --ink: #18202a;
+      --muted: #5d6875;
+      --line: #d8e2e6;
+      --soft: #f6f9fa;
+      --accent: #168a9a;
+      --accent-dark: #0f6570;
+      --max: 1060px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.58;
+      letter-spacing: 0;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--accent-dark);
+      text-decoration: underline;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(255, 255, 255, 0.96);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(10px);
+    }
+
+    .nav {
+      max-width: var(--max);
+      margin: 0 auto;
+      min-height: 60px;
+      padding: 0 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      color: var(--ink);
+      font-size: 19px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+    }
+
+    .nav-links a:hover,
+    .nav-links a[aria-current="page"] {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    main {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 46px 28px 76px;
+    }
+
+    .intro {
+      max-width: 780px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    h1, h2, h3 {
+      margin: 0;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+
+    .lead {
+      margin: 0;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      padding: 6px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--ink);
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .pill:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .topic-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 24px;
+    }
+
+    .topic-nav a {
+      padding: 5px 10px;
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .topic-nav a:hover {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .topic {
+      padding-top: 38px;
+    }
+
+    .topic h2 {
+      font-size: 25px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .topic h3 {
+      margin-top: 24px;
+      margin-bottom: 8px;
+      color: var(--accent-dark);
+      font-size: 18px;
+    }
+
+    .pub-list {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    .pub-list li {
+      margin: 12px 0;
+      padding-left: 2px;
+    }
+
+    .pub-title {
+      color: var(--ink);
+      font-weight: 750;
+    }
+
+    .pub-title:hover {
+      color: var(--accent);
+    }
+
+    .venue {
+      color: var(--muted);
+    }
+
+    .authors,
+    .venue,
+    .year,
+    .links {
+      margin-left: 4px;
+    }
+
+    .links {
+      white-space: nowrap;
+      font-size: 14px;
+    }
+
+    .year {
+      color: var(--muted);
+    }
+
+    .footer {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 28px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 680px) {
+      .nav {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 8px;
+        padding: 14px 20px;
+      }
+
+      .nav-links {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 2px;
+      }
+
+      main {
+        padding: 30px 20px 58px;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Sainyam Galhotra</a>
+      <div class="nav-links">
+        <a href="/">Home</a>
+        <a href="/publication/" aria-current="page">Publications</a>
+        <a href="/students/">Students</a>
+        <a href="/teaching/">Teaching</a>
+        <a href="/service/">Service</a>
+        <a href="/#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h1>Publications</h1>
+      <p class="lead">
+        Selected publications grouped by research themes. For the complete indexed list, see
+        Google Scholar and DBLP.
+      </p>
+      <div class="quick-links">
+        <a class="pill" href="https://scholar.google.co.uk/citations?user=0_9V8PgAAAAJ&hl=en">Google Scholar</a>
+        <a class="pill" href="https://dblp.org/search?q=Sainyam%20Galhotra">DBLP</a>
+      </div>
+      <div class="topic-nav" aria-label="Publication topics">
+        <a href="#agents">Agents & LLMs</a>
+        <a href="#discovery">Data Discovery</a>
+        <a href="#responsible-ai">Responsible AI</a>
+        <a href="#causal">Causality & Explanations</a>
+        <a href="#integration">Entity Resolution & Integration</a>
+        <a href="#theory">Algorithms & Theory</a>
+      </div>
+    </section>
+
+    {{- $agents := slice
+      "harp:" "post-training" "fine-tuning" "sifotl" "agent" "auto-research" "reasoning graph" "verirag" "claim verification" "qjoin" "fair-shepherd"
+    -}}
+    {{- $discovery := slice
+      "data discovery" "data lakes" "qjoin" "octopus" "metam" "nexus" "view discovery" "joinable" "semantic search" "automated relational data explanation" "external semantic knowledge"
+    -}}
+    {{- $responsible := slice
+      "fair" "fairness" "unlearning" "concept bottleneck" "robust aggregation" "intervention and conditioning" "reliable testing" "graph unlearning" "algorithmic fairness"
+    -}}
+    {{- $causal := slice
+      "causal" "counterfactual" "what-if" "how-to" "hypothetical" "explainable" "explaining black-box" "intervention"
+    -}}
+    {{- $integration := slice
+      "entity resolution" "blocking" "record" "taxonomy" "taxonomies" "view discovery" "correlation discovery" "data integration" "entity-aware"
+    -}}
+    {{- $theory := slice
+      "clustering" "geometric block model" "comparison oracle" "weak comparison" "diversification" "annulus" "conductance" "influence maximization" "streaming"
+    -}}
+
+    {{- template "topic" (dict "id" "agents" "title" "Agents, LLMs, and Post-Training" "subtitle" "Post-training, reinforcement learning, fine-tuning data selection, and agent reliability." "terms" $agents "pages" $publications) -}}
+    {{- template "topic" (dict "id" "discovery" "title" "Data Discovery and Data Lakes" "subtitle" "Finding, joining, retrieving, and explaining data for downstream tasks." "terms" $discovery "pages" $publications) -}}
+    {{- template "topic" (dict "id" "responsible-ai" "title" "Responsible AI, Fairness, and Unlearning" "subtitle" "Auditing models and systems for fairness, robustness, forgetting, and reliability." "terms" $responsible "pages" $publications) -}}
+    {{- template "topic" (dict "id" "causal" "title" "Causality and Explanations" "subtitle" "Causal reasoning, counterfactuals, explainability, and what-if analysis." "terms" $causal "pages" $publications) -}}
+    {{- template "topic" (dict "id" "integration" "title" "Entity Resolution and Data Integration" "subtitle" "Entity resolution, blocking, view discovery, taxonomies, and integration systems." "terms" $integration "pages" $publications) -}}
+    {{- template "topic" (dict "id" "theory" "title" "Algorithms and Theory" "subtitle" "Clustering, graph models, approximation, streaming, and algorithmic foundations." "terms" $theory "pages" $publications) -}}
+  </main>
+
+  <footer class="footer">
+    © {{ now.Format "2006" }} Sainyam Galhotra
+  </footer>
+</body>
+</html>
+
+{{- define "topic" -}}
+  <section class="topic" id="{{ .id }}">
+    <h2>{{ .title }}</h2>
+    <h3>{{ .subtitle }}</h3>
+    <ol class="pub-list">
+      {{- range .pages -}}
+        {{- $page := . -}}
+        {{- $haystack := lower (printf "%s %s" .Title (.Params.publication | default "")) -}}
+        {{- $matched := false -}}
+        {{- range $.terms -}}
+          {{- if in $haystack . -}}
+            {{- $matched = true -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if $matched -}}
+          <li>{{ with $page.Params.authors }}<span class="authors">{{ delimit . ", " }}.</span>{{ end }}
+            <a class="pub-title" href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>.
+            {{ with $page.Params.publication }}<span class="venue">{{ . | markdownify | plainify }}.</span>{{ end }}
+            <span class="year">{{ $page.Date.Format "2006" }}.</span>
+            <span class="links">
+              {{ with $page.Params.url_pdf }} [<a href="{{ . }}">PDF</a>]{{ end }}
+              {{ with $page.Params.doi }} [<a href="https://doi.org/{{ . }}">DOI</a>]{{ end }}
+              [<a href="{{ $page.RelPermalink }}">Details</a>]
+            </span>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    </ol>
+  </section>
+{{- end -}}
